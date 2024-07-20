@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @KSathwik
+- 👋 Hi, I’m @Katkam Sathwik
 - 👀 I’m interested in Coding
-- 🌱 I’m currently persuing my B.tech in Data-Science
-- 💞️ I’m looking to collaborate on good Companies
+- 🌱 I pursued my B.Tech in Data Science at ACE Engineering College
+- 💞️ I’m looking to collaborate with reputable companies
 - 📫 Reach me through LinkedIn : https://www.linkedin.com/in/katkam-sathwik-5b5285202
 
 
