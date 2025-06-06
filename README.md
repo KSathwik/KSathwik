@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Katkam Sathwik
-- 👀 I’m interested in Coding
-- 🌱 I pursued my B.Tech in Data Science at ACE Engineering College
-- 💞️ I’m looking to collaborate with reputable companies
+- 👀 I’m interested in Working with the Data
+- 🌱 I have completed my under graduation from ACE Engineering College in the stream of CSE Data Science
 - 📫 Reach me through LinkedIn : https://www.linkedin.com/in/katkam-sathwik-5b5285202
 
 
